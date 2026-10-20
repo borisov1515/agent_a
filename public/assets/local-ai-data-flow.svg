@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 610" width="1000" height="610" role="img" aria-labelledby="title desc">
+<title id="title">Where the answer is generated</title><desc id="desc">A qualitative comparison of two document question-answering architectures. Local processing keeps document retrieval and inference inside the company environment. An external-model setup sends selected context to a model provider. Optional integrations can send data outside either setup.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0 0L6 3L0 6" fill="none" stroke="#526575" stroke-width="1.5"/></marker></defs>
+<rect width="1000" height="610" rx="14" fill="#f4f7fb"/>
+<g font-family="Segoe UI,Arial,sans-serif" fill="#172c3d">
+<text x="40" y="53" font-size="26" font-weight="600">Same question. A different data boundary.</text>
+<text x="40" y="85" font-size="18" fill="#526575">Two possible architectures for asking company documents</text>
+<rect x="38" y="120" width="924" height="165" rx="9" fill="#fff" stroke="#dce4ec"/>
+<text x="60" y="155" font-size="19" font-weight="600">Local model</text><text x="940" y="155" font-size="17" text-anchor="end" fill="#526575">Company environment</text>
+<g font-size="20" text-anchor="middle"><rect x="65" y="184" width="235" height="66" rx="7" fill="#edf2f7"/><text x="182" y="211">Your documents</text><text x="182" y="235" font-size="16" fill="#526575">and selected context</text><rect x="386" y="184" width="235" height="66" rx="7" fill="#2859d9"/><text x="503" y="225" fill="#fff">Local model</text><rect x="706" y="184" width="220" height="66" rx="7" fill="#edf2f7"/><text x="816" y="225">Your answer</text></g>
+<path d="M310 217H373M631 217H693" stroke="#526575" stroke-width="2" marker-end="url(#arrow)" fill="none"/>
+<rect x="38" y="310" width="924" height="207" rx="9" fill="#fff" stroke="#dce4ec"/>
+<text x="60" y="347" font-size="19" font-weight="600">External model</text>
+<rect x="60" y="365" width="330" height="122" rx="7" fill="#edf2f7"/><text x="225" y="393" text-anchor="middle" font-size="16" fill="#526575">Company environment</text><text x="225" y="427" text-anchor="middle" font-size="20">Your documents</text><text x="225" y="453" text-anchor="middle" font-size="17" fill="#526575">Retrieve selected context</text>
+<rect x="650" y="365" width="276" height="122" rx="7" fill="#edf2f7" stroke="#526575" stroke-dasharray="6 5"/><text x="788" y="393" text-anchor="middle" font-size="16" fill="#526575">External service</text><text x="788" y="431" text-anchor="middle" font-size="20">Model provider</text>
+<path d="M405 412H635" stroke="#2859d9" stroke-width="2" marker-end="url(#arrow)" fill="none"/><text x="520" y="398" font-size="16" text-anchor="middle" fill="#2859d9">Selected context</text><path d="M635 463H405" stroke="#526575" stroke-width="2" marker-end="url(#arrow)" fill="none"/><text x="520" y="488" font-size="16" text-anchor="middle" fill="#526575">Answer returns</text>
+<text x="40" y="556" font-size="18" font-weight="600">In either setup</text><text x="40" y="584" font-size="18" fill="#526575">Email, CRM and web connections can still send data outside your environment.</text></g></svg>

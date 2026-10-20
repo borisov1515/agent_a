@@ -1,0 +1,10 @@
+WEBVTT
+
+00:00.000 --> 00:06.000
+A question about payment terms in the selected contract.
+
+00:06.000 --> 00:14.000
+AgentA returns an answer grounded in the company document.
+
+00:14.000 --> 00:22.000
+Read the answer and check its source before using the result.

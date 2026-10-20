@@ -1,0 +1,2 @@
+# The local D: volume is exFAT; a flat install works without filesystem symlinks.
+nodeLinker: hoisted
